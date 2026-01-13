@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jmontagne-7n31
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning informatic
-- 💞️ I’m looking to collaborate on still nothing
+- 👋 Hi, I’m REDACTED
+- 👀 I’m interested in REDACTED
+- 🌱 I’m currently learning REDACTED
+- 💞️ I’m looking to collaborate REDACTED
 - 📫 How to reach me, just don't. 
 
 <!---
