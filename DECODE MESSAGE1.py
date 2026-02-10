@@ -31,4 +31,5 @@ print(''.join(m))
 # On print le résultat
 
 #En conclusion, j'ai passé beaucoup de temps sur ce message (qui n'est que le premier ahah), le code ici présent est celui que vous m'avez aidé à réécrire en 
-# se basant sur le code que j'avais déjà fait, je l'ai par la suite un peu modifié, et pour la partie qui fait l'affichage propre, Aurélie ma conseillé la structure "".join(t[loop]))
+
+# se basant sur le code que j'avais déjà fait, je l'ai par la suite un peu modifié, et pour la partie qui fait l'affichage propre, Aurélie ma conseillé la structure "".join(t[loop])) qui est dans les exercices sur votre site
