@@ -18,3 +18,4 @@ décodé_propre = []
 for loop in range(len(décodé_impropre)):        # même principe que pour le message 1; on transforme la liste de caractère en une chaine propre
     décodé_propre.append("".join(décodé_impropre[loop]))
 print(''.join(décodé_propre))
+
